@@ -120,3 +120,7 @@ notificaion-container p {
 .notificaion-container.show {
   transform: translateY(-100px);
 }
+
+.show {
+  display: block;
+}
